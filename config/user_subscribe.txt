@@ -16,6 +16,7 @@ https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://raw.githubusercontent.com/9739867/aktv/refs/heads/main/aktv.m3u
-https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/9739867/aktv/refs/heads/main/aktv.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/iptv.m3u
 http://aktv.top/live.txt
