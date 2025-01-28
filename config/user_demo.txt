@@ -85,7 +85,8 @@ TVBS欢乐,p3p://167.114.175.6:55331/61e831a60008c7d761db13151abe16ae$LR•IPV4�
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$LR•IPV4『线路1』
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$LR•IPV4『线路1』
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$LR•IPV4『线路1』明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$LR•IPV4
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$LR•IPV4『线路1』
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$LR•IPV4
 三立台湾,p3p://167.114.175.6:55331/5fe2947f000c58a57c0623474ae64e07$LR•IPV4『线路1』
 无线新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8$LR•IPV4『线路1』
 无线新闻,p3p://108.181.32.169:57694/66c413ed0002eb3047eaefcf31980454$LR•IPV4『线路2』
